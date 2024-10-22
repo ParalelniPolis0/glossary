@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "prepare": "npm run build",
     "build": "node lib/build.js"
   },
   "keywords": [],
