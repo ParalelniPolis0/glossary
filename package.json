@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "build": "node lib/build.js",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "stats": "node --no-warnings=ExperimentalWarning lib/stats.js"
   },
   "keywords": [],
   "author": "",

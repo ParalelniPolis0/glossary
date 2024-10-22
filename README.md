@@ -5,6 +5,14 @@ Collection of key terms and concepts at the intersection of cryptoanarchy, digit
 - Frontend: https://paralelnipolis.info/glossary
 - JSON source: https://glossary.pp0.co
 
+## Statistics
+
+<!--stats-->
+| lang | terms | missing links |
+| --- | --- | --- |
+| [English (en)](./src/en) | 18 | 0 |
+<!--/stats-->
+
 ## How to use
 
 ### Javascript
