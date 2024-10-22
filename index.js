@@ -1,4 +1,4 @@
-import { loadSource } from "./utils/glossary.js";
+import { loadSource } from "./lib/glossary.js";
 
 export function loadGlossary() {
     return loadSource()
