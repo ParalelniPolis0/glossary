@@ -16,7 +16,7 @@ npm i @pp0/glossary
 
 And then use:
 ```js
-import { loadGlossary } from '@pp/glossary';
+import { loadGlossary } from '@pp0/glossary';
 
 // load glossary
 const { glossary } = loadGlossary();
