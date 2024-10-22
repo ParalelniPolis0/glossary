@@ -1,12 +1,12 @@
 {
   "name": "@pp0/glossary",
-  "version": "2024.10.22",
+  "version": "2024.10.22-1",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "prepare": "npm run build",
-    "build": "node lib/build.js"
+    "build": "node lib/build.js",
+    "prepublish": "npm run build"
   },
   "keywords": [],
   "author": "",
