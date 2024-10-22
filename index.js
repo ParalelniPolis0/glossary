@@ -1,6 +1,5 @@
-//import { loadSource } from "./lib/glossary.js";
-import bundle from './dist/index.json' with { type: "json" };
+import data from './dist/glossary.js';
 
 export function loadGlossary() {
-    return bundle
+    return data
 }

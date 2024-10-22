@@ -12,13 +12,17 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
     "mocha": "^10.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParalelniPolis0/glossary.git"
   },
   "files": [
     "dist/",
