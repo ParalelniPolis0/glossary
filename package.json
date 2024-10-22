@@ -1,6 +1,6 @@
 {
   "name": "@pp0/glossary",
-  "version": "2024.10.22-1",
+  "version": "2024.10.22-2",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -13,5 +13,9 @@
   "license": "ISC",
   "dependencies": {
     "gray-matter": "^4.0.3"
-  }
+  },
+  "files": [
+    "dist/",
+    "lib/"
+  ]
 }
