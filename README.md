@@ -10,7 +10,7 @@ Collection of key terms and concepts at the intersection of cryptoanarchy, digit
 <!--stats-->
 | lang | terms | missing links |
 | --- | --- | --- |
-| [English (en)](./src/en) | 18 | 66 |
+| [English (en)](./src/en) | 21 | 80 |
 <!--/stats-->
 
 ## How to use
