@@ -1,5 +1,6 @@
 ---
 name: Hacktivism
+type: concept
 resources:
   - title: Wikipedia article "Hacktivism"
     url: https://en.wikipedia.org/wiki/Hacktivism
