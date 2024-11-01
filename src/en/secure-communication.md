@@ -3,6 +3,7 @@ name: Secure communication
 type: concept
 keywords:
   - secure communications
+  - encrypted communication
 resources:
   - title: Electronic Frontier Foundation - Surveillance Self-Defense
     url: https://ssd.eff.org/
