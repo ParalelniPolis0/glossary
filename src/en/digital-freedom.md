@@ -1,5 +1,7 @@
 ---
 name: Digital Freedom
+keywords:
+  - digital privacy
 type: concept
 ---
 

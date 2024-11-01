@@ -1,6 +1,8 @@
 ---
 name: Mixnet
 type: technology
+keywords:
+  - mixnets
 resources:
   - title: Mix network - Wikipedia
     url: https://en.wikipedia.org/wiki/Mix_network

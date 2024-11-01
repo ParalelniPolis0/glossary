@@ -3,6 +3,9 @@ name: Decentralization
 type: concept
 keywords:
   - decentralized networks
+  - decentralized
+  - decentralized technologies
+  - Decentralized Systems
 resources:
   - title: Wikipedia article "Decentralization"
     url: https://en.wikipedia.org/wiki/Decentralization

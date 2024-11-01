@@ -3,7 +3,8 @@ name: Non-Aggression Principle (NAP)
 type: philosophy
 keywords:
   - NAP
-  - Non-Agression Principle
+  - Non-Aggression Principle
+  - non-aggression principle
 resources:
   - title: Non-aggression Principle Guide
     url: https://www.libertarianism.org/topics/non-aggression-principle
