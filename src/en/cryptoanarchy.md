@@ -9,6 +9,8 @@ keywords:
 related:
   - cryptoanarchists-manifesto
 resources:
+  - title: cryptoanarchy.wiki
+    url: https://cryptoanarchy.wiki/
   - title: Wikipedia article "Crypto-anarchism"
     url: https://en.wikipedia.org/wiki/Crypto-anarchism
 ---
