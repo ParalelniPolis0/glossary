@@ -1,6 +1,8 @@
 ---
 name: Cyberpunk
 type: genre
+keywords:
+  - cypherpunks
 resources:
   - title: What is Cyberpunk?
     url: https://www.theverge.com/22777244/cyberpunk-definition-history-movies-books-2077

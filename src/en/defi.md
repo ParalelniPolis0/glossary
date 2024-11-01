@@ -1,5 +1,8 @@
 ---
 name: Decentralized Finance (DeFi)
+keywords:
+  - DeFi
+  - decentralized finance
 type: concept
 ---
 
