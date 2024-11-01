@@ -3,6 +3,7 @@ name: Consensus Mechanism
 type: concept
 keywords:
   - consensus mechanisms
+  - consensus
 resources:
   - title: Wikipedia article "Consensus (computer science)"
     url: https://en.wikipedia.org/wiki/Consensus_(computer_science)

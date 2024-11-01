@@ -5,6 +5,7 @@ keywords:
   - crypto-anarchy
   - cryptoanarchism
   - crypto-anarchism
+  - crypto-anarchist
 resources:
   - title: Wikipedia article "Crypto-anarchism"
     url: https://en.wikipedia.org/wiki/Crypto-anarchism

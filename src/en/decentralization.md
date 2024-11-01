@@ -1,6 +1,8 @@
 ---
 name: Decentralization
 type: concept
+keywords:
+  - decentralized networks
 resources:
   - title: Wikipedia article "Decentralization"
     url: https://en.wikipedia.org/wiki/Decentralization

@@ -1,7 +1,9 @@
 ---
-name: Cryptocurrencies
+name: Cryptocurrency
 type: concept
 keywords:
+  - cryptocurrencies
+  - Cryptocurrencies
   - cryptocurrency
 ---
 

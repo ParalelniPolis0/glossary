@@ -1,6 +1,8 @@
 ---
 name: Anarchism
 type: philosophy
+keywords:
+  - anarchist
 resources:
   - title: Wikipedia article "Anarchism"
     url: https://en.wikipedia.org/wiki/Anarchism
