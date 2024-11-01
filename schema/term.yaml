@@ -14,7 +14,9 @@ properties:
   type:
     type: string
   year:
-    type: number
+    oneOf:
+      - type: number
+      - type: string
   keywords:
     type: array
     items:
